@@ -13,7 +13,7 @@ Here I have tried implementing the same game using few lines of python codes.
 python
 
 
-#How to contribute
+# How to contribute
 
 
 # contribute on-
