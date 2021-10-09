@@ -1,4 +1,13 @@
-# Tic-tac-toe-Game
+<div align='center'>
+    <h1> Tic-tac-toe-Game </h1>
+</div>
+
+![forks](https://img.shields.io/github/forks/Priyanka142806/Tic-tac-toe-Game?style=social)
+![stars](https://img.shields.io/github/stars/Priyanka142806/Tic-tac-toe-Game?style=social)
+![watchers](https://img.shields.io/github/watchers/Priyanka142806/Tic-tac-toe-Game?style=social)
+![pull](https://img.shields.io/github/issues-pr/Priyanka142806/Tic-tac-toe-Game)
+
+
 
 ## About
 
