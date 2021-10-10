@@ -32,10 +32,6 @@ Follow these 3 step process for contributions:
 3. Perform a Code Review with the project maintainers on the pull request.
 
 
-## contribute on-
-
-
-
 
 ## Author
 [@Priyanka](https://github.com/Priyanka142806)
